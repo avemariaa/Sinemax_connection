@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+#about{
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+.fnt{
+    font-size: 125%;
+}
+.ptxt {
+    font-size: 118%;
+}
+
+/* skills section style */
+#guide{
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
+
+.card-title {
+    text-align: center;
+    color: black;
+}
+.filmIcon{
+    font-size: 200px;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.creditIcon {
+    font-size: 200px;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.couchIcon {
+    font-size: 200px;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+
+}
+
+/* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.fa-facebook:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: #FF4A4A;
+}
+.fa-twitter:hover{
+    color: #31C6D4;
+}
+
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: #256D85;
+    text-align: center;
+}
+
+/* spacing on all sections */
+#about, #guide, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#contact {
+    padding-bottom: 4rem;
+    font-family: 'Anton', sans-serif;
+}
